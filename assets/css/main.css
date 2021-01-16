@@ -1174,6 +1174,7 @@ body.is-ie #wrapper {
   background-color: #ffffff;
   overflow: hidden;
   border-radius: 25px;
+  align-items: center;
 }
 
 /* Style the links inside the navigation bar */
